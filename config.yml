@@ -1,0 +1,8 @@
+# https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md
+# ~/.config/lazygit/config.yml
+
+gui:
+  theme:
+    selectedLineBgColor:
+      # - reverse
+      - black
